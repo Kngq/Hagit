@@ -16,13 +16,15 @@
   "Gym": {
     "created": "2026-10-20",
     "completions": {
-      "2026-10-20": true
+      "2026-10-20": true,
+      "2026-10-19": true
     }
   },
   "Study": {
     "created": "2026-10-20",
     "completions": {
-      "2026-10-20": true
+      "2026-10-20": true,
+      "2026-10-19": true
     }
   },
   "eat 4+ meals": {
