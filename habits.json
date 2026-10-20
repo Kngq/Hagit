@@ -1,57 +1,32 @@
 {
-  "gym": {
+  "Quiet Time": {
     "created": "2026-10-20",
     "completions": {
-      "2026-10-19": false,
-      "2026-10-20": false
+      "2026-10-20": true
     }
   },
-  "exercise": {
+  "Pray": {
     "created": "2026-10-20",
     "completions": {
-      "2026-10-19": true,
-      "2026-10-26": true,
-      "2026-10-18": true
+      "2026-10-20": true
     }
   },
-  "test": {
+  "Gym": {
     "created": "2026-10-20",
     "completions": {
-      "2026-10-05": true,
-      "2026-10-19": true
+      "2026-10-20": true
     }
   },
-  "meditation": {
+  "Study": {
     "created": "2026-10-20",
     "completions": {
-      "2026-10-12": true,
-      "2026-10-19": true,
-      "2026-10-20": false,
-      "2026-10-21": true
+      "2026-10-20": true
     }
   },
-  "yoga": {
+  "eat 4+ meals": {
     "created": "2026-10-20",
     "completions": {
-      "2026-10-05": true,
-      "2026-10-12": true,
-      "2026-10-19": true,
-      "2026-10-20": false,
-      "2026-10-22": true
-    }
-  },
-  "test1": {
-    "created": "2026-10-20",
-    "completions": {
-      "2026-10-23": true,
-      "2026-10-20": false,
-      "2026-10-22": true
-    }
-  },
-  "test2": {
-    "created": "2026-10-20",
-    "completions": {
-      "2026-10-20": false
+      "2026-10-20": true
     }
   }
 }
