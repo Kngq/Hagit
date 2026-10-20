@@ -1,0 +1,108 @@
+{
+  "gym": {
+    "created": "2026-10-20",
+    "completions": {
+      "2026-10-19": true,
+      "2026-10-20": false
+    }
+  },
+  "exercise": {
+    "created": "2026-10-20",
+    "completions": {
+      "2026-10-19": true,
+      "2026-10-26": true,
+      "2026-10-18": true
+    }
+  },
+  "reading": {
+    "created": "2026-10-20",
+    "completions": {
+      "2026-10-12": true,
+      "2026-10-19": true,
+      "2026-10-26": true,
+      "2026-10-20": true
+    }
+  },
+  "test": {
+    "created": "2026-10-20",
+    "completions": {
+      "2026-10-05": true,
+      "2026-10-19": true
+    }
+  },
+  "meditation": {
+    "created": "2026-10-20",
+    "completions": {
+      "2026-10-12": true,
+      "2026-10-19": true,
+      "2026-10-20": true,
+      "2026-10-21": true
+    }
+  },
+  "yoga": {
+    "created": "2026-10-20",
+    "completions": {
+      "2026-10-05": true,
+      "2026-10-12": true,
+      "2026-10-19": true,
+      "2026-10-20": true,
+      "2026-10-22": true
+    }
+  },
+  "test1": {
+    "created": "2026-10-20",
+    "completions": {
+      "2026-10-23": true,
+      "2026-10-20": true,
+      "2026-10-22": true
+    }
+  },
+  "test2": {
+    "created": "2026-10-20",
+    "completions": {
+      "2026-10-20": true
+    }
+  },
+  "weeklytest": {
+    "created": "2026-10-20",
+    "completions": {
+      "2026-10-13": true
+    }
+  },
+  "progress_test": {
+    "created": "2026-10-20",
+    "completions": {
+      "2026-10-20": true,
+      "2026-10-21": true
+    }
+  },
+  "perc_test": {
+    "created": "2026-10-20",
+    "completions": {
+      "2026-10-20": true,
+      "2026-10-21": true
+    }
+  },
+  "testwatch": {
+    "created": "2026-10-20",
+    "completions": {}
+  },
+  "testconst": {
+    "created": "2026-10-20",
+    "completions": {
+      "2026-10-20": true
+    }
+  },
+  "testuncheck2": {
+    "created": "2026-10-20",
+    "completions": {
+      "2026-10-21": false
+    }
+  },
+  "exercise 2020": {
+    "created": "2026-10-20",
+    "completions": {
+      "2026-10-20": false
+    }
+  }
+}
